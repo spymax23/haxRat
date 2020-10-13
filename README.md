@@ -1,10 +1,3 @@
-<p align="center">
-<img src="https://github.com/hax4us/haxRat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based remote android managment suite, powered by NodeJS
-</p>
-
-
-
 ## Features
 - Screenshot Capture
 - Screen Recorder
